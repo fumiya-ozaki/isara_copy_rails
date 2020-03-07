@@ -1552,13 +1552,16 @@ $b:blue;
         border-radius: 5px;
         padding: 0;
         &__text{
-          font-size: 10px;
+          font-size: 13px;
           color: white;
+          p{
+            display: block;
+          }
         }
         .menu-icon{
           color: white;
-          margin-bottom: 5px;
-          font-size: 35px;
+          margin-bottom: 3px;
+          font-size: 30px;
         }
       }
     }
