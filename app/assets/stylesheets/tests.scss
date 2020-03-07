@@ -1551,7 +1551,7 @@ $b:blue;
         background-color: $pink;
         border-radius: 5px;
         &__text{
-          font-size: 13px;
+          font-size: 10px;
           color: white;
         }
         .menu-icon{
@@ -1568,6 +1568,7 @@ $b:blue;
     .main-visual{
       widht:100%;
       &__title{
+        font-size:18px ;
       }
       &__logo{
       }
